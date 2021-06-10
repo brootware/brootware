@@ -6,6 +6,8 @@
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
 
 
+https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true
+
 <!--
 **brootware/brootware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,13 +24,12 @@ Here are some ideas to get you started:
 https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true
 -->
 
-
-<details>
+<!-- <details>
   <summary>:zap: View my GitHub Stats</summary>
 
   <img align="left" alt="Brootware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true" />
 
-</details>
+</details> -->
 
 
 
