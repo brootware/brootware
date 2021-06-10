@@ -6,7 +6,7 @@
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
 
 
-https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true
+https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark
 
 <!--
 **brootware/brootware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
