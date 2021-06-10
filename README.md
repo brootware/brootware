@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true
 -->
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Brootware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true" />
+
+</details>
