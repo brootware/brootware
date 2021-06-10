@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Bruce.
+
+- 🔧 Currently a Cloud Infrastructure Engineer at Government Technology of Singapore. 
+- 👀 Looking to contribute to more open source projects.
+- 📫 You can reach me on [<img alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
+
 
 <!--
 **brootware/brootware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +23,13 @@ https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&th
 -->
 
 
-
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: View my GitHub Stats</summary>
 
   <img align="left" alt="Brootware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true" />
 
 </details>
+
+
+
+[linkedin]: https://linkedin.com/in/oakermin/
