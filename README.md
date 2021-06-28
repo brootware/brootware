@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bruce.
 
-- 🔧 Currently a Cloud Infrastructure Engineer at Government Technology of Singapore. 
+- 🔧 Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore. 
 - 👀 Looking to contribute to more open source projects.
 - 📫 You can reach me on [<img alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
