@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true
-[![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&hide=stars&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <!-- <details>
   <summary>:zap: View my GitHub Stats</summary>
 
-  <img align="left" alt="Brootware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brootware&hide=stars&show_icons=true&theme=onedark&hide_border=true" />
+  <img align="left" alt="Brootware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true" />
 
 </details> -->
 
