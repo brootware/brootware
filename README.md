@@ -28,7 +28,7 @@ https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&th
 <!-- <details>
   <summary>:zap: View my GitHub Stats</summary>
 
-  <img align="left" alt="Brootware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true" />
+  <img align="left" alt="Brootware's Github Stats" src="https://github-readme-stats.vercel.app/api?username=brootware&hide=stars&show_icons=true&theme=onedark&hide_border=true" />
 
 </details> -->
 
