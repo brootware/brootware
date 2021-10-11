@@ -2,7 +2,6 @@
 
 - 🔧 Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore. 
 - 👀 Looking to contribute to more open source projects.
-- 📫 You can reach me on [<img alt="holisitc_developer | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
 
 
@@ -32,6 +31,6 @@ https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&th
 
 </details> -->
 
-
+[<img alt="holisitc_developer | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/oakermin/
