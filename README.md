@@ -2,7 +2,7 @@
 
 - 🔧 Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore. 
 - 👀 Looking to contribute to more open source projects.
-- 📫 You can reach me on [<img alt="holisitc_developer | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+- 📫 You can reach me on [<img alt="holisitc_developer | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
 
 
