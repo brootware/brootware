@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Bruce.
 
-- 🔧 Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore. 
-- 👀 Looking to contribute to more open source projects.
-- ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
+- 🔧  Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore. 
+- 👀  Looking to contribute to more open source projects.
+- ⚡   Fun fact: Hiking, Swimming and Running when I'm not at my desk.
 
 
 [![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&hide=stars&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
