@@ -1,21 +1,20 @@
-### Hi there 👋, I'm Bruce.
+# Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔧 Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore. 
+### Hi there 👋, I'm Bruce
+
+- 🔧 Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore.
 - 👀  Looking to contribute to more open source projects.
 - 🌱 I’m documenting what I learn by blogging at <https://brootware.github.io>.
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
-- 📫 How to reach me: 
+- 📫 How to reach me:
 
 [<img alt="discord | LinkedIn" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord] [<img alt="linkedin | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img alt="twitter | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 [discord]: https://discord.com/users/260007146102587392
 [linkedin]: https://linkedin.com/in/oakermin/
 [twitter]: https://twitter.com/brootware/
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
 [![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
