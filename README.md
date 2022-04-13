@@ -12,6 +12,10 @@
 [linkedin]: https://linkedin.com/in/oakermin/
 [twitter]: https://twitter.com/brootware/
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
