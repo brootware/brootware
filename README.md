@@ -1,4 +1,4 @@
-# Latest Blog posts by Bruce
+# Latest Blog posts by me
 <!-- BLOG-POST-LIST:START -->
 - [Grepping for gold in JSON APIs with jq 🔍 📄](https://brootware.github.io/posts/grepping-for-gold-in-JSON-APIs-with-jq/)
 - [Pico CTF 2022: Binary Exploitation ⚙️ 🛠](https://brootware.github.io/posts/pico-ctf-2022-binary-exploitation/)
