@@ -1,10 +1,10 @@
 # Latest Blog posts by me
 <!-- BLOG-POST-LIST:START -->
+- [Cyber League CTF 2022 - Writeups 🚩](https://brootware.github.io/posts/cyber-league-ctf-2022-writeups/)
 - [Grepping for gold in JSON APIs with jq 🔍 📄](https://brootware.github.io/posts/grepping-for-gold-in-JSON-APIs-with-jq/)
 - [Pico CTF 2022: Binary Exploitation ⚙️ 🛠](https://brootware.github.io/posts/pico-ctf-2022-binary-exploitation/)
 - [Pico CTF 2022: Cryptography 🔒 🕵](https://brootware.github.io/posts/pico-ctf-2022-cryptography/)
 - [Pico CTF 2022: Forensics 🕵️ 🏁](https://brootware.github.io/posts/pico-ctf-2022-forensics/)
-- [Pico CTF 2022: Web-exploitation 🏁 🕸 👨🏻‍💻](https://brootware.github.io/posts/pico-ctf-2022-web-exploitation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Hi there 👋, I'm Bruce
