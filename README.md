@@ -2,8 +2,8 @@
   <h1> Hello there! 👋 </h1>
 </div>
 
-- 😄 I'm Bruce.
-- 🔧 Currently a Cloud Infrastructure Engineer at Government Technology Agency of Singapore.
+- 😄 I'm also known as Bruce.
+- 🔧 Currently a Cloud Infrastructure (DevOps) Engineer at Government Technology Agency of Singapore.
 - 👀  Looking to contribute to more open source projects.
 - 🌱 I’m documenting what I learn by blogging at [here](<https://brootware.github.io>).
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
