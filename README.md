@@ -19,11 +19,11 @@
 
 # Latest Blog posts by me
 <!-- BLOG-POST-LIST:START -->
+- [EchoCTF: The Fake Binary Bypass Writeup ⚙️ 🛠](https://brootware.github.io/posts/echoctf-the-fake-binary-bypass-writeup/)
 - [Regex performance in golang and rust. Which is faster? 🤔](https://brootware.github.io/posts/regex-performance-in-golang-and-rust-which-is-faster/)
 - [Sensitive data redaction/unredaction tool - PyRedactKit 🧰🔐📝](https://brootware.github.io/posts/sensitive-data-redaction-pyredactkit/)
 - [Cyber League CTF 2022 - Writeups 🚩](https://brootware.github.io/posts/cyber-league-ctf-2022-writeups/)
 - [Grepping for gold in JSON APIs with jq 🔍 📄](https://brootware.github.io/posts/grepping-for-gold-in-JSON-APIs-with-jq/)
-- [Pico CTF 2022: Binary Exploitation ⚙️ 🛠](https://brootware.github.io/posts/pico-ctf-2022-binary-exploitation/)
 <!-- BLOG-POST-LIST:END -->
 
 
