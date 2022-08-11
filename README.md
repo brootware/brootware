@@ -29,6 +29,8 @@
 
 
 [![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://brootware.github.io)
+
+<!-- [![echoCTF badge](https://echoctf.red/profile/289749/badge)](https://echoctf.red/profile/289749) -->
   
 <!-- <p align="center">  
 <img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=brootware&theme=synthwave" /> -->
