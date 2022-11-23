@@ -3,7 +3,7 @@
 </div>
 
 - 😄 I'm also known as Bruce.
-- 🔧 Security Engineering at JPMorgan Chase & Co.
+- 🔧 Security Engineering at JPMorgan Chase & Co. 
 - 👀  Looking to contribute to more open source projects.
 - 🌱 I’m documenting what I learn by blogging at [blog](<https://brootware.github.io>).
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
@@ -51,3 +51,5 @@ Here are some ideas to get you started:
 https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true 
 [![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&hide=stars&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+  
+  Disclaimer : (The views and opinions shown on this website are of my own and not necessarily the viewpoint of my employer.)
