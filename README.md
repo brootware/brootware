@@ -25,7 +25,7 @@
 - [Grepping for gold in JSON APIs with jq 🔍 📄](https://brootware.github.io/posts/grepping-for-gold-in-JSON-APIs-with-jq/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://brootware.github.io)
+[![Brootware's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://brootware.github.io)
 
 <!-- [![echoCTF badge](https://echoctf.red/profile/289749/badge)](https://echoctf.red/profile/289749) -->
   
