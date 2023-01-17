@@ -3,7 +3,6 @@
 </div>
 
 - 😄 I'm also known as Bruce.
-<!-- - 🔧 Systems Engineering at JPMorgan Chase & Co.  -->
 - 👀  Looking to contribute to more open source projects.
 - 🌱 I’m documenting what I learn by blogging at [blog](<https://brootware.github.io>).
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
