@@ -3,7 +3,7 @@
 </div>
 
 - 😄 I'm also known as Bruce.
-- 🔧 Security Engineering at JPMorgan Chase & Co. 
+<!-- - 🔧 Systems Engineering at JPMorgan Chase & Co.  -->
 - 👀  Looking to contribute to more open source projects.
 - 🌱 I’m documenting what I learn by blogging at [blog](<https://brootware.github.io>).
 - ⚡  Fun fact: Hiking, Swimming and Running when I'm not at my desk.
@@ -14,7 +14,6 @@
 <a href="https://twitter.com/brootware/"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 <a><img height="30" src="https://visitor-badge.glitch.me/badge?page_id=brootware.visitor-badge&left_text=Visitors%20Since%207%20May%202022"></a>&nbsp;&nbsp;
 <!-- <a><img height="20" src="https://gpvc.arturio.dev/brootware"></a>&nbsp;&nbsp; -->
-<!-- <a href="https://discord.com/users/260007146102587392"><img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;&nbsp; -->
 
 # Latest Blog posts by me
 <!-- BLOG-POST-LIST:START -->
@@ -27,29 +26,5 @@
 
 [![Brootware's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://brootware.github.io)
 
-<!-- [![echoCTF badge](https://echoctf.red/profile/289749/badge)](https://echoctf.red/profile/289749) -->
   
-<!-- <p align="center">  
-<img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=brootware&theme=synthwave" /> -->
-  
-<!-- ![Profile views](https://gpvc.arturio.dev/[brootware]) -->
-
-<!--
-**brootware/brootware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://github-readme-stats.vercel.app/api?username=brootware&show_icons=true&theme=onedark&hide_border=true 
-[![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&hide=stars&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-  
-  Disclaimer : (The views and opinions shown on this website are of my own and not necessarily the viewpoint of my employer.)
+Disclaimer : (The views and opinions shown on this website are of my own and not necessarily the viewpoint of my employer.)
