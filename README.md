@@ -18,11 +18,11 @@
   
 # Latest Blog posts by me
 <!-- BLOG-POST-LIST:START -->
+- [Network Forensics Challenges](https://brootware.github.io/posts/picoctf-network-forensics-challenges/)
 - [Troubleshooting SAML assertion errors in SSO applications](https://brootware.github.io/posts/troubleshooting-saml-assertion-errors-in-sso-applications/)
 - [Handy Sysadmin Cheatbook 📜](https://brootware.github.io/posts/handy-sysadmin-cheatbook/)
 - [Configuring Wsl2 for Vagrant and Virtualbox on Windows](https://brootware.github.io/posts/configuring-wsl2-for-vagrant-and-virtualbox-on-windows/)
 - [EchoCTF: The Fake Binary Bypass Writeup ⚙️ 🛠](https://brootware.github.io/posts/echoctf-the-fake-binary-bypass-writeup/)
-- [Regex performance in golang and rust. Which is faster? 🤔](https://brootware.github.io/posts/regex-performance-in-golang-and-rust-which-is-faster/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Brootware's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://brootware.github.io)
