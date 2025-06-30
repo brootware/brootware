@@ -25,7 +25,7 @@
 - [EchoCTF: The Fake Binary Bypass Writeup ⚙️ 🛠](https://brootware.github.io/posts/echoctf-the-fake-binary-bypass-writeup/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Brootware's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://brootware.github.io)
+[![Brootware's github stats](https://github-readme-stats.vercel.app/api?username=brootware&count_private=true&show_icons=true&theme=onedark&hide_border=true)](https://brootware.github.io)
 
   
 Disclaimer : (The views and opinions shown on this website are of my own and not necessarily the viewpoint of my employer.)
